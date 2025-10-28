@@ -16,7 +16,7 @@ RESULTS_DIR = "results"
 os.makedirs(RESULTS_DIR, exist_ok=True)
 
 def main():
-    print("🔍 Gathering dataset...")
+    print(" Gathering dataset...")
     items = dataset.gather_files(DATA_DIR, CLASS_MAP)
     print(f"Found {len(items)} samples.")
 
