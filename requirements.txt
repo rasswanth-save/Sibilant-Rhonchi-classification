@@ -1,0 +1,10 @@
+numpy
+scipy
+librosa
+scikit-learn
+imbalanced-learn
+tensorflow
+pywt
+matplotlib
+seaborn
+ewtpy
